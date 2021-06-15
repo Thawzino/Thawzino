@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github-profile-trophy.vercel.app/?username=Thawzino&row=2&column=3
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thawzino)](https://github.com/Thawzino/github-profile-trophy)
+
 
 
 
